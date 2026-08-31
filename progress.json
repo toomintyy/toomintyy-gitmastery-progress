@@ -149,5 +149,14 @@
       "The remote 'upstream' is missing!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1788173234.016126,
+    "completed_at": 1788173237.861542,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
   }
 ]
