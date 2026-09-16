@@ -338,5 +338,14 @@
       "Branch 'list' still exists."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1789586829.444459,
+    "completed_at": 1789586830.929196,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
